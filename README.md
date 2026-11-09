@@ -76,13 +76,15 @@ REST API Testing | API Troubleshooting | HTTP Status Codes | JSON Validation | P
 
 **Career Focus:** Technical Implementation Specialist
 
+
 ## Test Evidence
 
-**### Postman Collection
-![Collection Overview](screenshots/collection-overview.png)
+### Postman Collection
+![Collection Overview](https://raw.githubusercontent.com/nikitakurman80-sudo/rest-api-integration-portfolio/main/screen1.png)
 
 ### Automated API Tests
-![Automated Tests](screenshots/automated-tests.png)
+![Automated Tests](https://raw.githubusercontent.com/nikitakurman80-sudo/rest-api-integration-portfolio/main/screen2.png)
 
 ### Collection Runner Results
-![Collection Runner](screenshots/collection-runner.png)**
+![Collection Runner](https://raw.githubusercontent.com/nikitakurman80-sudo/rest-api-integration-portfolio/main/screen3.png)
+
