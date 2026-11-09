@@ -78,11 +78,11 @@ REST API Testing | API Troubleshooting | HTTP Status Codes | JSON Validation | P
 
 ## Test Evidence
 
-### Postman Collection
+**### Postman Collection
 ![Collection Overview](screenshots/collection-overview.png)
 
 ### Automated API Tests
 ![Automated Tests](screenshots/automated-tests.png)
 
 ### Collection Runner Results
-![Collection Runner](screenshots/collection-runner.png)
+![Collection Runner](screenshots/collection-runner.png)**
