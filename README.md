@@ -75,3 +75,14 @@ REST API Testing | API Troubleshooting | HTTP Status Codes | JSON Validation | P
 **Location:** Ontario, Canada
 
 **Career Focus:** Technical Implementation Specialist
+
+## Test Evidence
+
+### Postman Collection
+![Collection Overview](screenshots/collection-overview.png)
+
+### Automated API Tests
+![Automated Tests](screenshots/automated-tests.png)
+
+### Collection Runner Results
+![Collection Runner](screenshots/collection-runner.png)
